@@ -1,2 +1,2 @@
 # conflict-resolution
-conflict resolution repo made on github.com
+- welcome to the conflict resolution repo i made on github.com 
